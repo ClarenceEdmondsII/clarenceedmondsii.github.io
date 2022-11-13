@@ -16,4 +16,4 @@ I attended Norfolk State University (NSU) of Norfolk, Virginia where I studied C
 
 Devs Like Us
 ======
-In the midst of the 2020 pandemic, the Devs Like Us community was co-founded by myself and two of my close friends from NSU. We aim to create a space to share our personal experiences in tech as well as sharing the stories of others. Our focus is to provide resources for people interested in tech and already established professionals. I help create content for our podcast and [Youtube channel](https://www.youtube.com/c/DevsLikeUs). 
+In the midst of the 2020 pandemic, the Devs Like Us community was co-founded by myself and two of my close friends from NSU. We aim to create a space to share our personal experiences in tech as well as sharing the stories of others. Our focus is to provide resources for people interested in tech and established professionals. I help create content for our podcast and [Youtube channel](https://www.youtube.com/c/DevsLikeUs). 
