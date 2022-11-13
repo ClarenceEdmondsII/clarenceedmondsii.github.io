@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Clarence Edmonds II"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Clarence Edmonds II"
+description              : &description "Clarence Edmonds II"
 url                      : https://clarenceedmondsii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ClarenceEdmondsII/clarenceedmondsii.github.io"
@@ -178,16 +178,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
