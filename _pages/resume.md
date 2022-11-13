@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -59,11 +59,11 @@ Work experience
 Skills
 ======
 * Automation:
- * Business Processes
- * System Integrations
+  * Business Processes
+  * System Integrations
 * Languages Used:
- * Python
- * ReactJS
+  * Python
+  * ReactJS
 * Databases:
   * MongoDB
   * Oracle
