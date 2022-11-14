@@ -74,6 +74,9 @@ Skills
 * CI/CD
 * Linux
 * Windows
+* Instructor
+* Curriculum development
+* Mentor
 
 
 <!-- Publications
