@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a software engineer professional with a variety of experiences in building automation tools that simplify business processes, enhance business technical operations and integrating systems. I also passionately educate and advocate for developers of tomorrow by teaching folx interested into transitioning into the tech space. 
+I'm a software engineer professional with a variety of experiences in building automation tools that simplify business processes, enhance business technical operations and integrating systems. I also passionately educate and advocate for developers of tomorrow by teaching folks interested into transitioning into the tech space. 
 
 Education
 ======
