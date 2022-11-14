@@ -16,8 +16,8 @@ Education
 
 Work experience
 ======
-* Dollar Tree
-  * Security Automation Engineer (April 2019 - Present)
+* Dollar Tree (April 2019 - Present)
+  * Security Automation Engineer
     * Design, engineer, deploy and maintain custom automation tools using Python.
     * Produce quality automation code for internal use for the Security Operations (SecOps) team that enable peers to focus on incoming threats and intel. 
     * Assist in the design, development, implementation and maintenance of information technology security systems (e.g. user log-on/authentication, patch level requirements and monitoring, firewall usage, security audit/breach escalation procedures).
